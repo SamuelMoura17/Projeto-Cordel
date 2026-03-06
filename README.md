@@ -1,2 +1,2 @@
 # Projeto Cordel
-Projeto Cordel para o Curso em video
+Projeto Cordel Moderno (Milton Duarte) - Curso em video
